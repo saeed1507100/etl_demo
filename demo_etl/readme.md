@@ -1,4 +1,4 @@
-#pull repo#
+# pull repo
 
 open teminal
 ## create network
